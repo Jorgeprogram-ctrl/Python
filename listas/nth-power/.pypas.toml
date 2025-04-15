@@ -1,3 +1,0 @@
-slug = "nth-power"
-bundle = [ "docs/README.pdf", "tests/*.py", "main.py", "vendor.py",]
-todo = [ "main.py",]

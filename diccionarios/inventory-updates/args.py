@@ -1,1 +1,0 @@
-movimientos = ["A1,B4,A-2,A7,B1,C4"]

@@ -1,1 +1,0 @@
-text = 'Hoy he ido a comprar el pan.'
